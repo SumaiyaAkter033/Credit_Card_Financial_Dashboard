@@ -68,7 +68,7 @@ Simulated a professional data pipeline using **SQL and Power BI**.
 ---
 
 ## 🚀 Project Sharing
-**GitHub Repository:** [Insert your repo link here]  
+**GitHub Repository:** [https://github.com/SumaiyaAkter033/Credit_Card_Financial_Dashboard]  
 **LinkedIn Post:** [Insert LinkedIn post link here]
 
 ---
